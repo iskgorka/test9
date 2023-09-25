@@ -1,4 +1,5 @@
-public class Threads {}
+public class Threads {
+}
 /*
 Class Example 1
         interface MyInterface {
