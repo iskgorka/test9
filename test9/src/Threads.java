@@ -739,7 +739,7 @@ Enum example 4
         }
 
 Enum example 5
-        //Продемонстрировать применение методов original(), compareTo() и equals()
+        //Продемонстрировать применение методов ordinal(), compareTo() и equals()
         //Перечисление сортов яблок
         enum Apple {
             Jonathan, GoldenDel, RedDel, Winesap, Cartland
